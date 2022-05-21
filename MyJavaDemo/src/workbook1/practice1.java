@@ -20,6 +20,7 @@ public class practice1 {
 					break;
 			default:
 				System.out.println("inside default block");
+				System.out.println("it is updated");
 			
 		}
 		
